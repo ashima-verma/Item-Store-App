@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Inventory App</string>
+    <string name="add_product">Add Item</string>
+    <string name="edit_product">Edit Item</string>
+    <string name="delete_all_products">DELETE ALL ITEMS</string>
+    <string name="no_item_found">No Item Found !!\nClick the Add Item Button to Add Item\nClick the Delete All Items Buttons to Delete all the Items..</string>
+    <string name="enter_item">Enter Item :</string>
+    <string name="price">Price :</string>
+    <string name="quantity">Quantity :</string>
+    <string name="add">+</string>
+    <string name="sub">-</string>
+    <string name="delete">Delete</string>
+    <string name="order">Order</string>
+    <string name="save_item">Save Item</string>
+    <string name="item_name">Item Name</string>
+    <string name="list_quantity">Quantity</string>
+    <string name="sell">sell</string>
+    <string name="delete_msg">Delete it?</string>
+    <string name="cancel">Cancel</string>
+    <string name="item_price">Price</string>
+    <string name="saving_error">Error in saving</string>
+    <string name="successfully_saved">Successfully Saved</string>
+    <string name="unsaved_changes_dialog_msg">Discard changes?</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+    <string name="delete_dialog_msg">Delete this item?</string>
+    <string name="editor_delete_item_failed">Error in deleting item</string>
+    <string name="editor_delete_item_successful">Item Deleted Successfully</string>
+    <string name="editor_update_item_failed">Error in Updating Item.</string>
+    <string name="editor_update_item_successful">Item Updated Successfully.</string>
+</resources>
